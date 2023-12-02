@@ -2,4 +2,4 @@
 
 This is a repo for a resturant called "Crveno Vino".
 
-Website Link: [Here](crvenovino.rs)
+Website Link: [Here](https://crvenovino.rs/)
